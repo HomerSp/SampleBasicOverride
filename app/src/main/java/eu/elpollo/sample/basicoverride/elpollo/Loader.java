@@ -1,6 +1,6 @@
-package foo.bar.application.elpollo;
+package eu.elpollo.sample.basicoverride.elpollo;
 
-import foo.bar.application.Module;
+import eu.elpollo.sample.basicoverride.Module;
 import se.aqba.framework.elpollo.ElPolloModuleLoader;
 
 /**

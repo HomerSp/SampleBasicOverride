@@ -1,4 +1,4 @@
-package foo.bar.application;
+package eu.elpollo.sample.basicoverride;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;

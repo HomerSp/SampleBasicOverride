@@ -5,7 +5,7 @@ android {
     buildToolsVersion "21.1.2"
 
     defaultConfig {
-        applicationId "foo.bar.application"
+        applicationId "eu.elpollo.sample.basicoverride"
         minSdkVersion 21
         targetSdkVersion 21
         versionCode 1

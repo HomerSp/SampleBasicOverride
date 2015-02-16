@@ -1,4 +1,4 @@
-package foo.bar.application;
+package eu.elpollo.sample.basicoverride;
 
 import java.util.ArrayList;
 import java.util.List;
