@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">BasicOverride</string>
+
+    <!-- The module name -->
+    <string name="module_name">Basic override sample</string>
+
+    <!-- The module developer -->
+    <string name="module_developer">HomerSp</string>
+
+    <!-- The module configuration activity, keep empty to disable -->
+    <string name="module_configure"></string>
+
+    <!-- A short summary of the module -->
+    <string name="module_summary">A sample module testing a basic method override.</string>
+</resources>

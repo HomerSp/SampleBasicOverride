@@ -1,0 +1,14 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="foo.bar.application">
+
+    <application android:allowBackup="true" android:label="@string/app_name"
+        android:icon="@drawable/ic_launcher" android:theme="@style/AppTheme">
+
+        <meta-data android:name="eplollo_minversion" android:value="1" />
+        <meta-data android:name="elpollo_module_name" android:value="@string/module_name" />
+        <meta-data android:name="elpollo_module_developer" android:value="@string/module_developer" />
+        <meta-data android:name="elpollo_module_configure" android:value="@string/module_configure" />
+        <meta-data android:name="elpollo_module_summary" android:value="@string/module_summary" />
+
+    </application>
+
+</manifest>
